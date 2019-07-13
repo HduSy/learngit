@@ -1,2 +1,2 @@
 I'm a plain file.
-a little changed.
+a little change
